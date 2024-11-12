@@ -1,5 +1,7 @@
 [core]
-    remote = name
+    remote = rstorage
     autostage = true
 ['remote "name"']
+    url = gdrive://1SA9Ts2JZKywZ7OGtYXTvTx57MZiAgtzP
+['remote "rstorage"']
     url = gdrive://1SA9Ts2JZKywZ7OGtYXTvTx57MZiAgtzP
